@@ -40,5 +40,8 @@
 
 ## 💾 Projects:
 ### UI autotests
-##### <img width="3%" title="GitHub" src="images/logo/github.png"> [Book_House](https://github.com/AlesyaSW/Book_House_Diploma_UI)
+##### <img width="10%" title="GitHub" src="images/logo/github.png"> [Book_House](https://github.com/AlesyaSW/Book_House_Diploma_UI)
 
+### API autotests
+##### <img width="10%" title="GitHub" src="images/logo/github.png"> [Diploma_API](https://github.com/AlesyaSW/diploma_api)
+&#8287;&#8287;&#8287;&#8287;&#8287;
