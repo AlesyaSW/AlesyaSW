@@ -2,7 +2,7 @@
 
 ## 👩‍💻About me
 - I'm manual and automation Engineer.
-- I work QA about 3 years.
+- I work QA about 7 years.
 - I write autotests in Python
 - Email: kalesiaq@gmail.com
 - Contacts:
